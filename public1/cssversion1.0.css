@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Grenze|Roboto+Slab|Saira+Stencil+One&display=swap');
+.navbar
+{
+    height: 3%;
+    background:#fff;
+}
+.navbar-brand
+{   
+    font-size:3rem;
+    font-family: 'Saira Stencil One', cursive;
+}
+.nav-item
+{
+font-family: 'Grenze', serif;
+font-weight: 500;
+font-size: 1.2rem;
+}
+.title1
+{
+ text-align: center;
+ font-family: 'Roboto Slab', serif;
+}
+.container
+{
+    font-size: 0.9rem;
+}
+.imside
+{
+    float: right;
+    max-width: 30rem;
+    max-height: 50rem;
+    border: solid 3px #0f0f00;
+}
+

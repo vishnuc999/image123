@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Grenze|Roboto+Slab|Saira+Stencil+One&display=swap');
+.navbar
+{
+    height: 3%;
+    background:#fff;
+}
+.navbar-brand
+{   
+    font-size:3rem;
+    font-family: 'Saira Stencil One', cursive;
+}
+.nav-item
+{
+font-family: 'Grenze', serif;
+font-weight: 500;
+font-size: 1.2rem;
+}
+.title1
+{
+ text-align: center;
+ /*font-family: 'Roboto Slab', serif;*/
+ font-family: 'Saira Stencil One', cursive;
+font-size: 110%;
+padding-left:1%;
+}
+.container
+{
+    font-size: 0.9rem;
+    padding: 3% 4% 4% 3%; /*top right left bottom*/
+}
+/**/
+.header1{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    margin-bottom: 1%;
+}
+.central{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: 1%;
+}
+ul {
+  list-style: none;
+}
+.imside{
+    float: right;
+    margin-left:3%;
+    max-width: 50%;
+    max-height: 10rem;
+    border: solid 3px #0f0f00;
+}
+  .imgset{
+      margin: 1%;
+  }
+  .para{
+      text-align: justify;
+      color:rgb(0, 0,0,0.7);
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+    max-width: 100%;
+  }
+  .row{
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0%;
+  }
+  .imgfloat{
+      width:30%;
+      float: left;
+  }
+  .img1{
+      max-width: 25%;
+      padding:1%;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 0.5%;
+    padding: 0.5%;
+    max-height: 25rem;
+  }
+  #float1{
+   width: 30%;
+   float: left;
+   margin: 1.66%;
+  }
+  /*.img2{
+    max-width: 100%;
+    padding:1%; 
+  }*/
+  .con{
+      font-size:1.1rem;
+      font-family: 'Saira Stencil One', cursive;
+  }
+  .name{
+      font-size:0.9rem;
+      font-weight: 500;
+  }
+  .quote{
+      font-family: 'Inconsolata', monospace;
+      text-align: center;
+      font-weight: 600;
+  }
+  .column{
+      padding: 0% 3%;
+  }
+ a{
+     color: #fff;
+ }

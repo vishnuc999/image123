@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Grenze|Roboto+Slab|Saira+Stencil+One&display=swap');
+.navbar
+{
+    
+    background:#fff;
+}
+.navbar-brand
+{   
+    font-size:3rem;
+    font-family: 'Saira Stencil One', cursive;
+}
+.nav-item
+{
+font-family: 'Grenze', serif;
+font-weight: 500;
+font-size: 1.2rem;
+}
+.container
+{
+    font-size: 0.9rem;
+    padding: 3% 4% 4% 3%; /*top right left bottom*/
+}
+/**/
+.header1{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    margin-bottom: 1%;
+}
+.imside{
+    float: right;
+    margin-left:3%;
+    max-width: 50%;
+    max-height: 10rem;
+    border: solid 3px #0f0f00;
+}
+  .para{
+      text-align: justify;
+      color:rgb(0, 0,0,0.7);
+  }
+  .row{
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0%;
+  }
+  .con{
+      font-size:1.1rem;
+      font-family: 'Saira Stencil One', cursive;
+  }
+  .name{
+      font-size:0.9rem;
+      font-weight: 500;
+  }
+  .quote{
+      font-family: 'Inconsolata', monospace;
+      text-align: center;
+      font-weight: 600;
+  }
+  .column{
+      padding: 0% 3%;
+  }
+.header1{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    font-size:0.9rem;
+}
+.header2{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 100;
+    font-size:0.9rem;
+}
+.con{
+    font-size:1.1rem;
+    font-family: 'Saira Stencil One', cursive;
+}
+.container1{
+    border: solid 3px #afafaf;
+    border-radius:15px;
+    background-color: rgb(241, 241, 241);
+}
+.container2{
+    margin: 0% 1%;
+}
+.name{
+    font-size:0.9rem;
+    font-weight: 500;
+}
+.quote{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-weight: 600;
+}
+.header1{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+}
+img.imgad{
+    height: 25rem;
+    width:95%;
+    padding-left:5%;
+}
+html,body{
+    margin: 0%;
+    padding:0%;
+}
